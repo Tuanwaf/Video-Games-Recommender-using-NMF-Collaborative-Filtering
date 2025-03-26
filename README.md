@@ -8,7 +8,7 @@ This *Collaborative Filtering-based Video Games Recommender System* focuses on *
 
 1. **Clone this repository**  
    ```
-   git clone https://github.com/your-username/Video-Games-Recommender-Using-NMF-Collaborative-Filtering.git
+   git clone https://github.com/Tuanwaf/Video-Games-Recommender-Using-NMF-Collaborative-Filtering.git
    ```
    
 2. **Enter the project directory**
