@@ -27,7 +27,7 @@ This *Collaborative Filtering-based Video Games Recommender System* focuses on *
    !pip install -r requirements.txt
    ```
 
-### Important
+## Important
 
 This project was run in **Jupyter Notebook**. If you want the same experience, consider using this environment too.
 
@@ -35,7 +35,7 @@ This project was run in **Jupyter Notebook**. If you want the same experience, c
 
 1. Open your **Jupyter Notebook**, make sure you have install the ```requirements.txt```
 2. You can see all the datasets used inside the ```/data``` folder.
-3. Run all these files on sequence:
+3. Run all these files in sequence:
    - ```Dataset_Cleaning.ipynb``` This is where you will clean the dataset to be used during the training.
    - ```Dataset_Combined.ipynb``` This is to merge the cleaned dataset with the metadata of the games, such as genre, description, and so on.
    - ```NMF_Model.ipynb``` This is the actual *Collaborative Filtering* model used for the training.
