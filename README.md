@@ -34,7 +34,7 @@ This project was run in **Jupyter Notebook**. If you want the same experience, c
 ## Run the project
 
 1. Open your **Jupyter Notebook**, make sure you have install the ```requirements.txt```
-2. You can see all the datasets used inside the ```/data``` folder.
+2. You can see some of the datasets used inside the ```/data``` folder. This is because some data are too big to be put here. You need to download the dataset for metadata by yourself from the link above and put it into the ```/data``` folder.
 3. Run all these files in sequence:
    - ```Dataset_Cleaning.ipynb``` This is where you will clean the dataset to be used during the training.
    - ```Dataset_Combined.ipynb``` This is to merge the cleaned dataset with the metadata of the games, such as genre, description, and so on.
