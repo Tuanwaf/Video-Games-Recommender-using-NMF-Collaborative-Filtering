@@ -21,7 +21,8 @@ This *Collaborative Filtering-based Video Games Recommender System* focuses on *
    pip install -r requirements.txt
    ```
 
-   - Or you can also directly install the requirement in **Jupyter Notebook** cell:
+   Or you can also directly install the requirement in **Jupyter Notebook** cell:
+   
    ```
    !pip install -r requirements.txt
    ```
