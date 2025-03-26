@@ -1,6 +1,6 @@
 # Video-Games-Recommender-Using-NMF-Collaborative-Filtering
 
-This *Collaborative Filtering-based Video Games Recommender System* focuses on *Non-Negative Matrix Factorization (NMF)*. This project used a dataset from **Kaggle** [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games "Get Dataset Here") for training, and this dataset is also from Kaggle [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/tamber/steam-video-games "Get Dataset Here") for the metadata of the games. 
+This *Collaborative Filtering-based Video Games Recommender System* focuses on *Non-Negative Matrix Factorization (NMF)*. This project used a dataset from **Kaggle** [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games "Get Dataset Here") for training, and this dataset that is also from Kaggle [Steam Store Games (Clean dataset)](https://www.kaggle.com/datasets/tamber/steam-video-games "Get Dataset Here") for the metadata of the games. 
 
 ## Installation  
 
