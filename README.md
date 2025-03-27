@@ -13,7 +13,7 @@ This *Collaborative Filtering-based Video Games Recommender System* focuses on *
    
 2. **Enter the project directory**
    ```
-   cd sign-language-detector
+   cd Video-Games-Recommender-Using-NMF-Collaborative-Filtering
    ```
    
 3. **Install dependencies**
