@@ -37,7 +37,7 @@ This project was run in **Jupyter Notebook**. If you want the same experience, c
 2. You can see some of the datasets used inside the ```/data``` folder. This is because some data are too big to be put here. You need to download the dataset for metadata by yourself from the link above and put it into the ```/data``` folder.
 3. Run all these files in sequence:
    - ```Dataset_Cleaning.ipynb``` This is where you will clean the dataset to be used during the training.
-   - ```Dataset_Combined.ipynb``` This is to merge the cleaned dataset with the metadata of the games, such as genre, description, and so on.
+   - ```Dataset_Combined.ipynb``` This merges the cleaned dataset with the games' metadata, such as genre, description, and so on.
    - ```NMF_Model.ipynb``` This is the actual *Collaborative Filtering* model used for the training.
    - ```Evaluation.ipynb``` This is the evaluation process for the CF model; it uses RMSE, MAE, and Recall@K.
    - ```Streamlit_main.ipynb``` This is to run the streamlit interface, but before running this, make sure to check the interface code at ```interface.py```; you can edit the interface code here.
